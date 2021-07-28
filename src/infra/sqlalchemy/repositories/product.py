@@ -22,5 +22,5 @@ class RepositoryProduct():
     def _get(self):
         pass
     
-    def remove(pass):
+    def remove(self):
         pass
